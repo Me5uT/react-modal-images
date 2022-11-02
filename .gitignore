@@ -2,3 +2,5 @@
 /dist
 /.vscode
 package-lock.json
+/.storybook
+storybook-static
