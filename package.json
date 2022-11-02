@@ -15,7 +15,7 @@
         "storybook": "start-storybook -p 6006",
         "build-storybook": "build-storybook"
     },
-    "author": "Me5uT",
+    "author": "Mesut Çağa <me5ut@windowslive.com>",
     "license": "MIT",
     "devDependencies": {
         "@babel/core": "^7.19.6",
@@ -40,5 +40,12 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Me5uT/react-modal-images"
-    }
+    },
+    "keywords": [
+        "react-component",
+        "react-modal-images",
+        "react",
+        "modal",
+        "image"
+    ]
 }
